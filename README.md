@@ -30,7 +30,7 @@ git clone https://github.com/DjangoPeng/LLM-quickstart.git
 
 建议使用 GPU 云服务器来进行模型训练和微调。
 
-项目使用 Python 版本为 3.10，环境关键依赖的官方文档如下：
+项目使用 Python 版本为 3.11，环境关键依赖的官方文档如下：
 
 - Python 环境管理 [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
 - Python 交互式开发环境 [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
